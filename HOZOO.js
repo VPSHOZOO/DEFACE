@@ -14,7 +14,7 @@ const banner = `
         [YOUTUBE : LORDHOZOO]
         [TIKTOK  : LORDHOZOO]
         [ DILIRIS : 2025-04-25 JUMAT ]
-;
+';
 const token = '7252116522:AAHJlPUkFJJHjN3AufQ6jh6Zm1BIIN1RHLA';
 const bot = new TelegramBot(token, {polling: true});
 const userAgents = [
